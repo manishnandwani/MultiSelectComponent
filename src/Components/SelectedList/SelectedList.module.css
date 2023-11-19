@@ -1,0 +1,9 @@
+.selectedList {
+  display: flex;
+  position: absolute;
+  top: 0;
+  /* overflow: scroll; */
+  flex-wrap: wrap;
+  width: fit-content;
+  max-width: 100%;
+}
